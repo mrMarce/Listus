@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="item_1">To Do</string>
+    <string name="item_2">Announcements</string>
+    <string name="item_3">Done</string>
+</resources>
